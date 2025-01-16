@@ -1,5 +1,5 @@
 # Filepath where you want things permanently deleted when this script is run
-$folder = "F:\Packages\DELETE"
+$folder = "X:\EXAMPLE\DELETE"
 
 # Get the current date and time in a readable format
 $dateTime = Get-Date -Format "yyyy-MM-dd_HH-mm-ss"
